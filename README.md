@@ -3,7 +3,9 @@
 This repository contains the public FTC code for 16355 team (7Creators) for Autonomous and TeleOp code using Freight Frenzy (2021-2022) public SDK code for 2021 competition season.
 
 **Team Number: 16355**
+
 **Team Name: 7CREATORS**
+
 **Team members:**
 
 Aishani Singh
