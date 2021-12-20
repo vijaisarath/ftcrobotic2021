@@ -1,7 +1,20 @@
 ## NOTICE
 
--- This repository contains the public FTC SDK for the Freight Frenzy (2021-2022) competition season 
--- 16355 team code (7Creators) for Autonomous and TeleOp code.
+This repository contains the public FTC code for 16355 team (7Creators) for Autonomous and TeleOp code using Freight Frenzy (2021-2022) public SDK code for 2021 competition season.
+
+**Team Number: 16355**
+**Team Name: 7CREATORS**
+**Team members:**
+Aishani Singh
+Aneesh Cuddalore Vijaisarath
+Anannya
+Mithesh Raja Govindaraja
+Rishika
+SeshaSai Aasrith Modem
+Soham Bhatta
+Suchindra
+Swathi Ratheesh
+Vyasraj
 
 ## Welcome!
 This GitHub repository contains the source code that is used to build an Android app to control a *FIRST* Tech Challenge competition robot.  To use this SDK, download/clone the entire project to your local computer.
